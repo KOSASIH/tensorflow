@@ -1,7 +1,9 @@
 ---
 name: Feature Request
 about: Use this template for raising a feature request
-labels: 'type:feature'
+title: ''
+labels: ''
+assignees: ''
 
 ---
 

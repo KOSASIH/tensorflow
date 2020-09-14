@@ -1,7 +1,9 @@
 ---
 name: TensorFlow Lite for Microcontrollers Issue
 about: Use this template for reporting issues with TensorFlow Lite for microcontrollers
-labels: 'comp:micro'
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
@@ -16,4 +18,3 @@ labels: 'comp:micro'
 **Describe the problem**
 
 **Please provide the exact sequence of commands/steps when you ran into the problem**
-
